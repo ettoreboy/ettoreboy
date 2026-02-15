@@ -1,6 +1,27 @@
-# Hey, I'm Ettore
-
-Full stack developer based in Europe. I like building things for the web, tinkering with hardware, and figuring out how stuff works.
+```
+                                                                          
+    ███████╗████████╗████████╗ ██████╗ ██████╗ ███████╗                   
+    ██╔════╝╚══██╔══╝╚══██╔══╝██╔═══██╗██╔══██╗██╔════╝                   
+    █████╗     ██║      ██║   ██║   ██║██████╔╝█████╗                     
+    ██╔══╝     ██║      ██║   ██║   ██║██╔══██╗██╔══╝                     
+    ███████╗   ██║      ██║   ╚██████╔╝██║  ██║███████╗                   
+    ╚══════╝   ╚═╝      ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝                   
+                                                                          
+    ┌─────────────────────────────────────────────────────────────────┐
+    │                                                                 │
+    │   > const dev = {                                               │
+    │   >   name: "Ettore Ciprian",                                   │
+    │   >   role: "Full Stack Developer",                             │
+    │   >   location: "Europe",                                       │
+    │   >   website: "ettoreciprian.com",                             │
+    │   >   interests: ["web", "hardware", "open source"],            │
+    │   > };                                                          │
+    │                                                                 │
+    │   $ ssh ettore@the-internet                                     │
+    │   Welcome. Last login: every single day.                        │
+    │                                                                 │
+    └─────────────────────────────────────────────────────────────────┘
+```
 
 Currently at [@AmphoraTech](https://github.com/AmphoraTech).
 
