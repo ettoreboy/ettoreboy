@@ -10,7 +10,7 @@
     ┌─────────────────────────────────────────────────────────────────┐
     │                                                                 │
     │   > const dev = {                                               │
-    │   >   name: "Ettore Ciprian",                                   │
+    │   >   name: "Ettore",                                           │
     │   >   role: "Full Stack Developer",                             │
     │   >   location: "Europe",                                       │
     │   >   interests: ["web", "hardware", "open source"],            │
@@ -21,8 +21,6 @@
     │                                                                 │
     └─────────────────────────────────────────────────────────────────┘
 ```
-
-Currently at [@AmphoraTech](https://github.com/AmphoraTech).
 
 ---
 
@@ -38,9 +36,10 @@ AWS    Docker    Linux    Git
 
 | Project | Description |
 |---------|-------------|
+| [unfold](https://github.com/ettoreboy/unfold) | Chrome extension that pulls a post on X apart, claim first |
+| [tvbox](https://github.com/ettoreboy/tvbox) | Turn a Raspberry Pi wired to a TV into a photo slideshow |
 | [vscode-advanced-search-extension](https://github.com/ettoreboy/vscode-advanced-search-extension) | VS Code extension -- search selected text with your favorite browser |
-| [fadecandy-backlight](https://github.com/ettoreboy/fadecandy-backlight) | Ambilight-style LED backlight effect using Fadecandy |
-| [blog-astro](https://github.com/ettoreboy/blog-astro) | My personal blog, built with Astro |
+| [ettoresdungeon.blog](https://ettoresdungeon.blog) | My personal blog, built with Astro |
 
 ### Stats
 
